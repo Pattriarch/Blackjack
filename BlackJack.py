@@ -2,6 +2,8 @@ from UI_BlackJack import UI
 from art import art
 from dictionary_cards import cards_packed
 
+#TODO Add .lower()
+
 game_betting = True
 
 start = input("Do you want to play a game of Blackjack? Type 'yes' or 'no': ")
